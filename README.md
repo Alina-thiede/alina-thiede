@@ -1,13 +1,14 @@
 # Alina Thiede
 
-**Data Engineer** — [one-line positioning: what I build, in what stack, for whom]
+**Junior Data Engineer** · Vienna, Austria
 
-**Stack** · [ingestion/orchestration] · [storage] · [transformation] · [serving]
+I build and automate data solutions on Microsoft Fabric — ingestion, lakehouse modelling, Power BI reporting — for Data & AI consulting clients.
 
-### Projects
-- 🚩 **[Flagship project name]** — [one line] · [repo](url)
-- **[Project 2 name]** — [one line] · [repo](url)
-- **[Project 3 name]** — [one line] · [repo](url)
+- **Ingestion & orchestration** · Data Factory · Python · PySpark
+- **Storage** · Fabric Lakehouse · medallion architecture · Azure SQL
+- **Transformation** · SQL / T-SQL · PySpark · Power Query
+- **Serving** · Power BI semantic models · DAX
+- **App & access** · React · TypeScript · Entra ID · row-level security · Rayfin (declarative Fabric backend)
+- **Ways of working** · agentic-first with Claude Code · Git
 
-📄 [Portfolio](https://github.com/alina-thiede/alina-portfolio) ·
-💼 [LinkedIn](url) · ✉️ [email]
+📂 **[Portfolio](https://github.com/alina-thiede/alina-portfolio)** · [LinkedIn](https://linkedin.com/in/alina-thiede) · [alina.thiede@outlook.com](mailto:alina.thiede@outlook.com)
