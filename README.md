@@ -11,4 +11,4 @@ I build and automate data solutions on Microsoft Fabric — ingestion, lakehouse
 - **App & access** · React · TypeScript · Entra ID · row-level security · Rayfin (declarative Fabric backend)
 - **Ways of working** · agentic-first with Claude Code · Git
 
-📂 **[Portfolio](https://github.com/alina-thiede/alina-portfolio)** · [LinkedIn](https://linkedin.com/in/alina-thiede) · [alina.thiede@outlook.com](mailto:alina.thiede@outlook.com)
+📂 **[Portfolio](https://github.com/alina-thiede/alina-portfolio)** · [LinkedIn](https://linkedin.com/in/alina-thiede) · [CV](https://github.com/Alina-thiede/alina-thiede/blob/main/CV_AlinaThiede.pdf) · [alina.thiede@outlook.com](mailto:alina.thiede@outlook.com)
